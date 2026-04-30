@@ -2,7 +2,7 @@
 
 **A continuously evolving, science-based training system built for long-horizon athletic and tactical development.**
 
-[![Current Protocol Preview](preview.html)](index.html)
+[![Current Protocol](preview.png)](index.html)
 
 Delta Protocol is a structured, self-coached program designed to develop a complete athlete from the ground up — one who is strong, capable, mobile, and conditioned for both physical performance and sustained output. The system is built on exercise science principles, RPE-based autoregulation, concurrent endurance training, and deliberate recovery infrastructure.
 
